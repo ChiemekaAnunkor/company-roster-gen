@@ -23,6 +23,7 @@ Because this Challenge will require a video submission, refer to the Fullstack B
 Your application should use Jest for running the unit tests and Inquirer for collecting input from the user. The application will be invoked by using the following command:
 
 ## Demo
+<img width="772" alt="image" src="https://user-images.githubusercontent.com/63639477/197702070-6583ba30-0c3d-4506-bd04-7a0cc4859c1b.png">
 
 ## File Directory
 
